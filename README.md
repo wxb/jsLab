@@ -11,7 +11,7 @@
 * 可能我们在没有深入学习JavaScript以前会把许多HTML的api当初JavaScript中的方法，搞不清楚到底JavaScript是什么？做了些什么？   
 * 也许当你可以说我有了jQuery，该做的都可以做了，当时JavaScript影响的广泛是jQuery所不能比的，在GitHub上着丰富的js类库
 
-**深入学习JavaScript**
+**深入学习JavaScript**   
 xJavaScript 库保存学习<< JavaScript高级程序设计 >>书的笔记库，和JavaScript的完成某些有意思事情的Demo库   
 从这里开始重新认识 JavaScript的魅力  
 
