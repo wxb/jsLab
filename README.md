@@ -1,4 +1,4 @@
-##xjavascript  
+##woJS  
 
 **重新认识JavaScript**  
 虽然已经的JavaScript有了一定了解和学习，但是也只是停留在浏览器交互时的特效。   
@@ -12,7 +12,7 @@
 * 也许当你可以说我有了jQuery，该做的都可以做了，当时JavaScript影响的广泛是jQuery所不能比的，在GitHub上着丰富的js类库
 
 **深入学习JavaScript**   
-xJavaScript 库保存学习<< JavaScript高级程序设计 >>书的笔记库，和JavaScript的完成某些有意思事情的Demo库   
+woJS 库保存学习<< JavaScript高级程序设计 >>书的笔记库，和JavaScript的完成某些有意思事情的Demo库   
 从这里开始重新认识 JavaScript的魅力  
 
 
